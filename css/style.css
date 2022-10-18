@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+
+body main div{
+    display: flex;
+    justify-content: space-around;
+}
+
+body main div div {
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 5px 0 10px #ebe6e6;
+    justify-items: center;
+    justify-content: flex-end;
+    margin: 2rem; }
+    body main div div img {
+      width: 90%; }
+    body main div div p {
+      width: 100%;
+      background-color: orangered;
+      color: white;
+      text-align: center; }
+    body main div div b {
+      color: #555252; }
